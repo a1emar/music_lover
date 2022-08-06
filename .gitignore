@@ -1,0 +1,7 @@
+Thumbs.db
+tmp/
+.idea/
+.gradle/
+*.DS_Store
+*_old
+*_backup
